@@ -1,0 +1,5 @@
+lib/app/modules/album/album_module.dart
+lib/app/modules/album/album_page.dart
+test/app/modules/album/album_page_test.dart
+lib/app/modules/album/album_controller.dart
+test/app/modules/album/album_controller_test.dart
