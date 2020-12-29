@@ -1,9 +1,13 @@
 <h1 align="center"> 🎵 WePlayer</h1><p align="center">This is my first app using <b>Flutter.</b> I wanted to challenge myself and a music player seemed like a great opportunity to do so.</p>
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat-square)
+[![BMAC](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/wefixit)
+[![GitHub Stars](https://img.shields.io/github/stars/luciano-work/we_player?logo=github)](https://github.com/luciano-work/we_player)
 
 ## 📷 Gallery
-•
+<p>
+  <img width="320px" alt="Music App" src="https://github.com/luciano-work/we_player/raw/master/assets/images/demo.gif"/>
+</p>
 
 ## 💡 Features
   * [ ] Download Musics
@@ -43,11 +47,11 @@
 - [dio](https://pub.dev/packages/dio)
 - [audioplayers](https://pub.dev/packages/audioplayers)
 
-## 🎗 Support
+## Support
 Like this project?
 - ⭐️ Star the repository
 - 📩 Send a pull request to add new features
 - 💌 Share this repository with other developers
 
 If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕
-[![BMAC](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/wefixit) 
+
