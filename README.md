@@ -1,8 +1,10 @@
-<h1 align="center"> 🎵 WePlayer</h1><p align="center">This is my first app using <b>Flutter.</b> I wanted to challenge myself and a music player seemed like a great opportunity to do so.</p>
+<h1 align="center"> 🎵 WePlayer</h1>
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat-square)
 [![BMAC](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/wefixit)
 [![GitHub Stars](https://img.shields.io/github/stars/luciano-work/we_player?logo=github)](https://github.com/luciano-work/we_player)
+
+<p align="center">This is my first app using <b>Flutter.</b> I wanted to challenge myself and a music player seemed like a great opportunity to do so. The Project Has Not Completed Yet!</b>
 
 ## 🚀 Getting Started 
 The first thing you have to do is get an [VK API TOKEN](https://github.com/vodka2/vk-audio-token)\
