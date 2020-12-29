@@ -5,8 +5,13 @@
 [![GitHub Stars](https://img.shields.io/github/stars/luciano-work/we_player?logo=github)](https://github.com/luciano-work/we_player)
 
 ## 🚀 Getting Started 
-The first thing you have to do is get an VK API TOKEN [VK API TOKEN](https://github.com/vodka2/vk-audio-token)</p>
-update .env file with VK token
+The first thing you have to do is get an VK API TOKEN [VK API TOKEN](https://github.com/vodka2/vk-audio-token)\
+Create a new .env file in root folder
+
+```
+# VK API Token
+TOKEN=31cafa0ea559784c8de7230f582fc8d9c846208e01da73ac3f8a47852a216885483682c95199508fd60a
+```
 
 ## 📷 Gallery
 <p>
