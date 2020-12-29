@@ -4,6 +4,10 @@
 [![BMAC](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/wefixit)
 [![GitHub Stars](https://img.shields.io/github/stars/luciano-work/we_player?logo=github)](https://github.com/luciano-work/we_player)
 
+## 🚀 Getting Started 
+The first thing you have to do is get an VK API TOKEN [VK API TOKEN](https://github.com/vodka2/vk-audio-token)</p>
+update .env file with VK token
+
 ## 📷 Gallery
 <p>
   <img width="320px" alt="Music App" src="https://github.com/luciano-work/we_player/raw/master/assets/images/demo.gif"/>
@@ -23,7 +27,7 @@
   * [ ] Playlist
   * [x] Album Image
   
-## 📦 Packages used
+## 📦 Packages
 #### UI
 - [shimmer](https://pub.dev/packages/shimmer)
 - [pull_to_refresh](https://pub.dev/packages/pull_to_refresh)
@@ -50,8 +54,8 @@
 ## Support
 Like this project?
 - ⭐️ Star the repository
-- 📩 Send a pull request to add new features
 - 💌 Share this repository with other developers
 
-If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕
+## Disclaimer
+For educational purposes only. By using this, you could be violating your VK® terms and conditions. Use it at your own risk.
 
